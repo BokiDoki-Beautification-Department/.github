@@ -6,7 +6,7 @@
 
 密码：**bokidoki**
 下载方式 see -> [release](https://github.com/BokiDoki-Beautification-Department/BokiDoki/releases/latest) <br>
-默认周末更新，更新频率1-2周视整合组情况而定。仓库本身不含游戏相关内容，仅作为发布地址，特写mod在上一级仓库。**对在其它平台下载的汉化游戏文件不保证安全性，请谨慎下载。**
+默认周末更新，更新频率1-2周视整合组情况而定。仓库本身不含游戏相关内容，仅作为发布地址，特写mod在上一级仓库。**对在其它平台下载的美化模组不保证安全性，请谨慎下载。**
 
 必须加载beauty-selector，pb-mod，以及overfits才能正常使用 -> [下载地址](https://github.com/BokiDoki-Beautification-Department/Meow) <br>
 有问题可直接在 [讨论区](https://github.com/orgs/BokiDoki-Beautification-Department/discussions) 反映（记得选择将你的帖子公开不然管理员可能找不着），**尽量不要在贴吧开贴，贴吧私聊几位负责人除外**（开贴一律不理会）。
